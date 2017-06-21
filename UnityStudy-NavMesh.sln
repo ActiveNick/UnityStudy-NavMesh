@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityStudy-NavMesh", "UnityStudy-NavMesh.csproj", "{BD3DF895-C1F2-2483-FC56-1F9C9BEF00CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD3DF895-C1F2-2483-FC56-1F9C9BEF00CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD3DF895-C1F2-2483-FC56-1F9C9BEF00CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD3DF895-C1F2-2483-FC56-1F9C9BEF00CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD3DF895-C1F2-2483-FC56-1F9C9BEF00CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
